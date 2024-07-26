@@ -1,0 +1,5 @@
+1944, Vanessa, Basalo, 7097274189, 12345, 2024-07-25, 200.0, 2 Howard St, Paradise, NL, A1N3K1, 1, Yes, Yes, Yes, Full, No, 1143.0
+1945, Jovan, Kennedy, 7099876543, 12346, 2024-07-24, 100.0, 2 Hussey Rd, Paradise, NL, A1N3K1, 1, No, No, No, Monthly, No, 869.0
+1946, Jhellai, Vargas, 7091234567, 12347, 2024-07-23, 150.0, 2 Canada Drive, St. John'S, NL, A1N4H1, 2, Yes, No, No, Full, No, 1346.25
+1947, Terry, Kenny, 7097638267, 12536, 2024-07-26, 500.0, 41 Howard Ave., Paradise, NL, A1L3M9, 1, Yes, Yes, Yes, Full, Yes, 1143.0
+1948, Angelica, Basalo, 7096839478, 23456, 2024-06-27, 200.0, 13 Oderin Place, St.Johns, NL, A1B2B6, 2, Yes, Yes, Yes, Monthly, Yes, 1634.25
